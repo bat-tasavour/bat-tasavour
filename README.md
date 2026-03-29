@@ -83,12 +83,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedtasavour&layout=compact&hide_border=true" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bat-tasavour&show_icons=true&theme=default&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bat-tasavour&layout=compact&hide_border=true" width="350"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=syedtasavour&hide_border=true" width="750"/>
+  <img src="https://streak-stats.demolab.com?user=bat-tasavour&hide_border=true" width="750"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ### 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syedtasavour&limit=5&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=bat-tasavour&limit=5&combine_all_yearly_contributions=true" />
 </p>
 
 ---
