@@ -1,52 +1,54 @@
-<h1 align="center">Hi 👋, I'm Syed Tasavour</h1>
-<h3 align="center">🚀 Full Stack Developer | Scalable Web & AI-integrated Systems | Application Development</h3>
+<h1 align="center">Hey, I'm Syed Tasavour 👋</h1>
+
+<h3 align="center">Full Stack Developer · Building real things for real users.</h3>
 
 <p align="center">
-   Building production-grade platforms with real-time capabilities, microservice architecture, and high user concurrency.
+  <a href="https://syedtasavour.me">🌐 syedtasavour.me</a> &nbsp;·&nbsp;
+  <a href="mailto:hi@syedtasavour.me">📬 hi@syedtasavour.me</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/syedtasavour">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/syedtasavour_">Twitter</a>
 </p>
-
----
-
-##### ⏱ Coding Time 
-[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=red&url=https://api.codetime.dev/v3/users/shield?uid=29894)](https://codetime.dev)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" alt="syedtasavour" />
-</p>
-
----
-
-🔭 I’m currently working on an **AWS Serverless-Architected** app using 🧠 **TypeScript + React.js** and ⚙️ **Lambda functions for CRUD operations**.
-
-> Architected for scalability, real-time performance, and multi-database orchestration in a microservices-friendly environment.
-
-- 💬 Ask me about **Node.js**, **AWS**, **Microservices**, **WebSockets**, **Performance Optimization**
-- 👨‍💻 Portfolio: https://syedtasavour.me
-- 📫 Email: **hi@syedtasavour.me**
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-<a href="https://codepen.io/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codepen.svg" height="30" width="40" /></a>
-<a href="https://dev.to/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/syedtasavour_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27011590" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/syed.tasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerearth.svg" height="30" width="40" /></a>
-<a href="https://discord.gg/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedtasavour&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## Imagine this.
+
+You've just pushed a feature. Traffic spikes. 4,000 users hit the platform at once.
+
+Most apps buckle. Yours doesn't.
+
+**That's the kind of software I build.**
+
+I'm a full-stack developer from Kashmir, India — I work across the entire stack, from pixel to production. Node.js, Next.js, AWS serverless, real-time systems. The kind of code that holds up when it matters most.
+
+---
+
+## What I actually do
+
+Here's a taste of what I've shipped:
+
+- ⚡ **Real-time messaging** with Socket.IO + Redis Pub/Sub — sustaining **1,000+ concurrent users**, encrypted end-to-end
+- 🔒 **Multi-layer auth** — JWT, OAuth 2.0 (Google/LinkedIn), 2FA, with retry logic hitting **99% delivery reliability**
+- 🏗️ **Serverless APIs** on AWS Lambda + API Gateway — built for scale, without the maintenance headache
+- 🛒 **30+ production APIs** for a professional networking platform — feeds, connections, profiles, the works
+- ⚡ **React app performance** up **25%** through lazy loading, code splitting & memoization
+
+---
+
+## Ask me about
+
+**Node.js · AWS · Microservices · WebSockets · Performance Optimization**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.syedtasavour.me/?username=syedtasavour&theme=flat" />
 </p>
 
 ---
@@ -83,12 +85,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bat-tasavour&show_icons=true&theme=default&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bat-tasavour&layout=compact&hide_border=true" width="350"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bat-tasavour&hide_border=true" width="750"/>
+  <img src="https://readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1" width="400" />
+  <img src="https://readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1" width="350" />
 </p>
 
 ---
@@ -96,12 +94,29 @@
 ### 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=bat-tasavour&limit=5&combine_all_yearly_contributions=true" />
+<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=bat-tasavour" alt="GitHub Streak" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Contribution Activity Overview
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://codepen.io/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codepen.svg" height="30" width="40" /></a>
+<a href="https://dev.to/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" height="30" width="40" /></a>
+<a href="https://twitter.com/syedtasavour_" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27011590" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" height="30" width="40" /></a>
+<a href="https://instagram.com/syed.tasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerearth.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/syedtasavour" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+## 👨‍💻 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/syedtasavour/syedtasavour/output/snake.svg" alt="snake animation" />
